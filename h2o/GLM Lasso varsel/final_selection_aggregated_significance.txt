@@ -1,0 +1,7 @@
+VendorID, 0.62
+RatecodeID, 359.01
+borough_DO, 244.64
+PULocationID, 318.12
+payment_type, 272.31
+DOLocationID, 951.27
+borough_orig, 37.86
